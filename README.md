@@ -19,8 +19,8 @@ A simple static file server built with [Node.js](https://nodejs.org) that serves
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/static-file-server.git
-   cd static-file-server
+   git clone https://github.com/MichaelAuditore/static-web-app.git
+   cd static-web-app
    ```
 2. Install dependencies:
    ```
