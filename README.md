@@ -1,4 +1,4 @@
-# Static File Server
+# Static Web App
 
 A simple static file server built with [Node.js](https://nodejs.org) that serves files from a specified directory. Ideal for serving HTML, CSS, JavaScript, and other static assets.
 
@@ -12,7 +12,7 @@ A simple static file server built with [Node.js](https://nodejs.org) that serves
 
 ## Requirements
 
-- Node.js (>= 12.x)
+- Node.js (>= 20.x)
 - npm (Node Package Manager)
 
 ## Installation
